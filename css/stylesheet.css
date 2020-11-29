@@ -1,5 +1,10 @@
-a {
+footer {
+  display: inline;
   color: #393e46;
+  margin: 100px;
+}
+.footer-author {
+  display: inline;
 }
 
 body {
